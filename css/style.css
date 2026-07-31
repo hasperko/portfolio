@@ -8,10 +8,17 @@ html, body{
     color: #d7e7ff;
     font-size: 18px;
 }
+.highlight {
+    color: #0fba54;
+}
 
 h1 {
     margin: 0;
     padding: 0;
+}
+
+a {
+    text-decoration: none;
 }
 
 p {
@@ -102,3 +109,4 @@ section.about {
     justify-content: center;
     align-items: center;
 }
+
