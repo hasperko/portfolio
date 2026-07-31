@@ -1,8 +1,11 @@
 html, body{
     margin: 0;
     padding: 0;
-    background-color: #F4F9FC;
-    color: #0F1B61;
+    /* background-color: #F4F9FC; */
+    background-color: #1C1E1F;
+    /* color: #0F1B61;
+    color: #e9f2ff; */
+    color: #d7e7ff;
     font-size: 18px;
 }
 
@@ -29,7 +32,8 @@ section {
     align-items: center;
 }
 .project {
-    background-color: #f0f0f0c4;
+        /* background-color: #f0f0f0c4; */
+    background-color: #1F2223;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -48,7 +52,8 @@ section.hero {
 }
 
 section.about {
-    background-color: #f0f0f0c4;
+    /* background-color: #f0f0f0c4; */
+    background-color: #17191a;
 }
 
 #profile-picture {
@@ -90,7 +95,8 @@ section.about {
 }
 
 .contact {
-    background-color: #f0f0f0c4;
+    /* background-color: #f0f0f0c4; */
+    background-color: #17191a;
     display: flex;
     flex-direction: column;
     justify-content: center;
